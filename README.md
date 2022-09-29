@@ -8,4 +8,4 @@
 7. Connect to the mysql in commandline : <code>mysql --port=6603 --host=127.0.0.1 --user=root --password </code> 
 8. Then enter you password : in our case it's root 
 9. Enter to the database : <code>use completeBDD;</code> 
-10. And run your sql file into it : <code>source file.sql;</code> 
+10. And run your sql file into it : <code>source completeBDD.sql;</code> 
